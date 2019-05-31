@@ -1,6 +1,6 @@
 # hotel-site
 
-By Alexander Kondra
+By Alexander Kondra and Hugh Donkin 
 Can be viewed at https://alexanderkondra.github.io/hotel-site
 
 Description
@@ -15,4 +15,4 @@ HTML/CSS
 License
 Licensed under MIT license
 
-Copyright (c) 2019 Alexander Kondra
+Copyright (c) 2019 Alexander Kondra and Hugh Donkin 
